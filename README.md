@@ -7,6 +7,7 @@
 - 🌱 Learning API integration and scaling applications
 - 💬 Ask me about my projects and vision
 - ⚡ Fun fact: I started my coding journey with Scratch!
+- [Visit my portfolio](https://www.anubhobdey.me)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
