@@ -86,7 +86,7 @@
 ![New Image](./static/66.gif)
 ## 💼 Want to hire me? Here's my resume!
 - 📄 [My Resume](static/new_cv.pdf)
-- 📬 Email me at: [anubhob435@example.com]
+- 📬 Email me at: [anubhob435@gmail.com]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anubhob435&icon=0&color=0)](https://visitcount.itsvg.in)
