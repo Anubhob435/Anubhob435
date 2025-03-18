@@ -1,15 +1,21 @@
-![Header GIF](./static/11.gif)
+<div align="center">
+  <div style="position: relative;">
+    <img src="./static/11.gif" alt="Header GIF" width="100%" />
+    <div style="position: absolute; top: 50%; left: 22%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
+      <h1 style="color: white; text-shadow: 2px 2px 4px #000;">Hi, Anubhob here👋</h1>
 
-# 👋 Hi, I'm Anubhob!
+
+  </div>
+</div>
 
 ## 💫 About Me
-- 🔭 Currently building **"Shuttle for Students"** - a platform that [brief description of what it does]
-- 👯 Looking to collaborate on innovative projects focusing on [specific areas of interest]
-- 🤝 Seeking help with frontend development (React, Vue) and agile project management
-- 🌱 Learning RESTful API integration, GraphQL, and scaling applications for production
-- 💬 Ask me about my project architecture decisions and technical vision
-- ⚡ Fun fact: I started my coding journey with Scratch at age 15 and built my first full app within a month!
-- ✨ [Visit my portfolio](https://www.anubhobdey.me) to see my latest work
+- <img src="https://img.icons8.com/color/20/000000/telescope.png"/> Currently building **"Shuttle for Students"** - a platform that [brief description of what it does]
+- <img src="https://img.icons8.com/color/20/000000/collaboration.png"/> Looking to collaborate on innovative projects focusing on [specific areas of interest]
+- <img src="https://img.icons8.com/color/20/000000/helping-hand.png"/> Seeking help with frontend development (React, Vue) and agile project management
+- <img src="https://img.icons8.com/color/20/000000/sprout.png"/> Learning RESTful API integration, GraphQL, and scaling applications for production
+- <img src="https://img.icons8.com/color/20/000000/chat.png"/> Ask me about my project architecture decisions and technical vision
+- <img src="https://img.icons8.com/color/20/000000/lightning-bolt.png"/> Fun fact: I started my coding journey with Scratch at age 15 and built my first full app within a month!
+- <img src="https://img.icons8.com/color/20/000000/star--v1.png"/> [Visit my portfolio](https://www.anubhobdey.me) to see my latest work
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile) 
@@ -18,6 +24,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YourProfile)
 
 ## 💻 Tech Stack
+![New Image](./static/22.png)
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,6 +47,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
+![New Image](./static/55.gif)
 ## 🚀 Featured Projects
 <table>
   <tr>
@@ -62,6 +70,7 @@
   </tr>
 </table>
 
+![New Image](./static/33.gif)
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -81,6 +90,7 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![New Image](./static/66.gif)
 ## 💼 Want to hire me? Here's my resume!
 - 📄 [My Resume](static/new_cv.pdf)
 - 📬 Email me at: [anubhob435@example.com]
