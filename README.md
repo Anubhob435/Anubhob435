@@ -1,12 +1,5 @@
-<div align="center">
-  <div style="position: relative;">
-    <img src="./static/11.gif" alt="Header GIF" width="100%" />
-    <div style="position: absolute; top: 50%; left: 22%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
-      <h1 style="color: white; text-shadow: 2px 2px 4px #000;">Hi, Anubhob here👋</h1>
-
-
-  </div>
-</div>
+![Headergif](./static/11.gif)
+## Hi, Anubhob Here 
 
 ## 💫 About Me
 - <img src="https://img.icons8.com/color/20/000000/telescope.png"/> Currently building **"Shuttle for Students"** - a platform that [brief description of what it does]
@@ -52,16 +45,16 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Shuttle for Students</h3>
-      <div align="center">
+      <h3>Shuttle for Students</h3>
+      <div>
         <a href="[trackbees.tech]" target="_blank"><img src="./static/ss14.png" width="400" alt="Project 1"/></a>
         <p><strong>Tech Stack:</strong> [React, Node.js, MongoDB, Google Maps API ]</p>
         <p>[ntroducing TrackBees, a comprehensive vehicle tracking solution developed for my university's transport system. This web application utilizes GPS technology and real-time mapping to provide live tracking of university buses, helping students and staff monitor bus locations and estimated arrival times efficiently.]</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">[Portfolio Website]</h3>
-      <div align="center">
+      <h3>Portfolio Website</h3>
+      <div>
         <a href="[www.anubhobdey.me]" target="_blank"><img src="./static/portfolio.png" width="400" alt="Project 2"/></a>
         <p><strong>Tech Stack:</strong> [Python Flask, HTMl, CSS, Javascript]</p>
         <p>[A modern portfolio website featuring an integrated AI assistant powered by Google's Gemini API. This project showcases my work while providing interactive assistance to visitors. The AI can answer questions about my projects, skills, and experience, creating an engaging user experience.]</p>
@@ -72,7 +65,7 @@
 
 ![New Image](./static/33.gif)
 ## 📊 GitHub Stats
-<div align="center">
+<div>
 
 ![](https://github-readme-stats.vercel.app/api?username=Anubhob435&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anubhob435&theme=tokyonight&hide_border=false)
