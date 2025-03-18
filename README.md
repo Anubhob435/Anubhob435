@@ -54,7 +54,7 @@
       <div align="center">
         <a href="[www.anubhobdey.me]" target="_blank"><img src="./static/portfolio.png" width="400" alt="Project 2"/></a>
         <p><strong>Tech Stack:</strong> [Python Flask, HTMl, CSS, Javascript]</p>
-        <p>[Created My Portfolio website with Ai Assistance available]</p>
+        <p>[A modern portfolio website featuring an integrated AI assistant powered by Google's Gemini API. This project showcases my work while providing interactive assistance to visitors. The AI can answer questions about my projects, skills, and experience, creating an engaging user experience.]</p>
       </div>
     </td>
   </tr>
