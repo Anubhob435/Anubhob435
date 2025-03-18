@@ -1,3 +1,5 @@
+![Header GIF](./static/11.gif)
+
 # 👋 Hi, I'm Anubhob!
 
 ## 💫 About Me
