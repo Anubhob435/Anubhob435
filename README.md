@@ -77,7 +77,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Anubhob435&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🎓 Education & Certifications
-- 🎓 [B. Teach] from [University of Engineering and Management, Kolkata] - [2026]
+- 🎓 [B. Tech] from [University of Engineering and Management, Kolkata] - [2026]
 - 📜 [Computer Science and Engineering (AI & ML)] - [UEMK] - [2026]
 
 ## ✍️ Random Dev Quote
