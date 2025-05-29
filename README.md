@@ -5,7 +5,7 @@
 - <img src="https://img.icons8.com/color/20/000000/telescope.png"/> Currently building **"Shuttle for Students"** - a platform that that enhances safety of school students
 - <img src="https://img.icons8.com/color/20/000000/collaboration.png"/> Looking to collaborate on innovative projects focusing on API and Backend
 - <img src="https://img.icons8.com/color/20/000000/helping-hand.png"/> Seeking help with frontend development (React, Vue) and agile project management
-- <img src="https://img.icons8.com/color/20/000000/sprout.png"/> Learning RESTful API integration, GraphQL, and scaling applications for production
+- <img src="https://img.icons8.com/color/20/000000/sprout.png"/> Learning RESTful API integration, PostgreSQL, Blockchain and scaling applications for production
 - <img src="https://img.icons8.com/color/20/000000/chat.png"/> Ask me about my project architecture decisions and technical vision
 - <img src="https://img.icons8.com/color/20/000000/lightning-bolt.png"/> Fun fact: I started my coding journey with Scratch at age 15 and built my first full app within a month!
 - <img src="https://img.icons8.com/color/20/000000/star--v1.png"/> [Visit my portfolio](https://www.anubhobdey.me) to see my latest work
