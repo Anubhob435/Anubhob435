@@ -1,7 +1,6 @@
 ![Headergif](./static/11.gif)
 ## Hi, Anubhob Here 
 
-## 💫 About Me
 - <img src="https://img.icons8.com/color/20/000000/telescope.png"/> Currently building **"Shuttle for Students"** - a platform that that enhances safety of school students
 - <img src="https://img.icons8.com/color/20/000000/collaboration.png"/> Looking to collaborate on innovative projects focusing on API and Backend
 - <img src="https://img.icons8.com/color/20/000000/helping-hand.png"/> Seeking help with frontend development (React, Vue) and agile project management
