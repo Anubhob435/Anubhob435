@@ -7,7 +7,7 @@
 - <img src="https://img.icons8.com/color/20/000000/sprout.png"/> Learning RESTful API integration, PostgreSQL, Blockchain and scaling applications for production
 - <img src="https://img.icons8.com/color/20/000000/chat.png"/> Ask me about my project architecture decisions and technical vision
 - <img src="https://img.icons8.com/color/20/000000/lightning-bolt.png"/> Fun fact: I started my coding journey with Scratch at age 15 and built my first full app within a month!
-- <img src="https://img.icons8.com/color/20/000000/star--v1.png"/> [Visit my portfolio](https://www.anubhobdey.me) to see my latest work
+- <img src="https://img.icons8.com/color/20/000000/star--v1.png"/> [Visit my portfolio](https://www.anubhobdey.online) to see my latest work
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhob-dey-05702714b/) 
